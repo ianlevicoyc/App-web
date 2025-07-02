@@ -1,0 +1,12 @@
+# Ignorar entorno virtual
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+*.xlsx
+.DS_Store
+.env
